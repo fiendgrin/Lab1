@@ -1,0 +1,15 @@
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\bin\Debug\net6.0\LabTasks1.exe
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\bin\Debug\net6.0\LabTasks1.deps.json
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\bin\Debug\net6.0\LabTasks1.runtimeconfig.json
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\bin\Debug\net6.0\LabTasks1.dll
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\bin\Debug\net6.0\LabTasks1.pdb
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\obj\Debug\net6.0\LabTasks1.csproj.AssemblyReference.cache
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\obj\Debug\net6.0\LabTasks1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\obj\Debug\net6.0\LabTasks1.AssemblyInfoInputs.cache
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\obj\Debug\net6.0\LabTasks1.AssemblyInfo.cs
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\obj\Debug\net6.0\LabTasks1.csproj.CoreCompileInputs.cache
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\obj\Debug\net6.0\LabTasks1.dll
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\obj\Debug\net6.0\refint\LabTasks1.dll
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\obj\Debug\net6.0\LabTasks1.pdb
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\obj\Debug\net6.0\LabTasks1.genruntimeconfig.cache
+C:\Users\yunisah\source\C#\LabTasks1\LabTasks1\obj\Debug\net6.0\ref\LabTasks1.dll
